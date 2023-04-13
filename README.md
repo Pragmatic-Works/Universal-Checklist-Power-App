@@ -17,4 +17,9 @@ Go to the Power Apps environment that you wish to the Universal Checklist into. 
 Start with the Template table. Each template is the equivalent of a checklist. Then Template Item Group, which are groups of items in a given checklist. Finally, Checklist Items, which are given items that you can reuse across multiple checklists. The last step is to Checklist Formulas, where you can piece all the items together into a checklist and specify the owners and approvers. 
 
 
-Video instruuctions coming soon!
+Video instructions
+
+[![Watch the video](https://img.youtube.com/vi/eJ0vi_lOY0s/maxresdefault.jpg)](https://www.youtube.com/watch?v=eJ0vi_lOY0s)
+
+Video
+https://www.youtube.com/watch?v=eJ0vi_lOY0s
